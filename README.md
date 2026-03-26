@@ -81,14 +81,20 @@
 ```bash
 npm install
 npm run dev
+```
 
 ---
 
 ## 🌐 Демо
-Проект задеплоен на Vercel: https://crow-character-creation.vercel.app/
+
+Проект задеплоен на Vercel:
+https://crow-character-creation.vercel.app/
 
 ---
+
 ## 📁 Структура проекта
+
+```
 src/
   App.jsx
   main.jsx
@@ -97,16 +103,19 @@ public/
 index.html
 package.json
 vite.config.js
+```
 
 ---
 
 ## 💡 Планы развития
+
 * Уникальные комбинации характеристик
 * Влияние выбора на геймплей
 * UI-эффекты (паранойя, дрожание, искажения)
 * Перенос системы в Unreal Engine 5
 
 ---
+
 ## 👤 Автор
+
 Kamal Efendiyev
----
