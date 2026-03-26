@@ -5,10 +5,9 @@
 ![menu](images/crow_main_screen.jpg)
 
 <p align="center">
-  <img src="images/гифка_адам.gif" width="45%" />
-  <img src="images/гифка_виктор.gif" width="45%" />
+  <img src="images/гифка_адам.gif" width="45%" height="250" style="object-fit: cover;" />
+  <img src="images/гифка_виктор.gif" width="45%" height="250" style="object-fit: cover;" />
 </p>
-
 <p align="center">
   <b>Адам — нестабильность</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Виктор — давление</b>
