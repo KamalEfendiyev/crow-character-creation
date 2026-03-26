@@ -81,10 +81,10 @@
 ```bash
 npm install
 npm run dev
-
 ---
 
-## 🌐 Демо Проект задеплоен на Vercel: https://crow-character-creation.vercel.app/
+## 🌐 Демо
+Проект задеплоен на Vercel: https://crow-character-creation.vercel.app/
 
 ---
 ## 📁 Структура проекта
@@ -106,5 +106,6 @@ vite.config.js
 * Перенос системы в Unreal Engine 5
 
 ---
- ## 👤 Автор Kamal Efendiyev
+## 👤 Автор
+Kamal Efendiyev
 ---
